@@ -1,0 +1,52 @@
+firewalls
+load balancer
+proxy server
+
+laye security concept
+---
+vpn concentraitor (2,3,7)
+
+NIDS - netork intrusion detection sys
+passive
+signature based
+anomal based
+policy based
+heursitic based
+NIPS - prevention
+
+blocks or terminates sessions
+
+UTM - unified threat managment
++provides security features in central location
+- singel point of failure
+---
+spam filter
+5 types (blacklist)
+
+web security gateway
+protocol analyssser (packet sniffer) wireshark
+___
+
+Integration
+  risk integraton
+  onboarding and offboarding
+  interoperabilitagreements
+  data backups
+  cloud? (encripted)
+  data ownership
+  complieance and perfonce standrds
+  follow security plicies and procedures
+ ---
+ App attack
+ XSS cross-site scripting
+ SQL injection attack
+ buffer overflow
+ integer overflow attack
+ directory traversal/command injection
+ LDAP
+ XML
+ unknown?
+ zero day attackes
+ data validation
+ ___
+ 
