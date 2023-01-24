@@ -64,3 +64,58 @@ cyber attacks
   honeypots
   
   
+  cryptography
+    confidentiality
+    non-repudiation (digital signature)
+    authenticity
+    integrity
+   
+  
+  RSA
+    Duo security
+    Okta
+    Google Authenticator
+    LastPass
+
+Safer
+  secure and fast and encryptio routine(saffer)
+  64-bit block size and a byte-oriented algorithm.
+  
+  PKI (public key infrustructure) howe it works
+      1. requst for digital certificate to Certificate Authority
+      2. issued
+      3. digital certificate signed by 
+      4. digital certificte used to encript data and then it can be send
+      
+  Blowfish
+      64-bit symmetric encritptoi algorith
+      variable in nature
+      
+  Block cipher vs stream cipher
+  
+  8 Phases of the Cyber Kill Chain Process
+Lockheed Martin’s original cyber kill chain model contained seven sequential steps:
+
+Phase 1: Reconnaissance
+During the Reconnaissance phase, a malicious actor identifies a target and explores vulnerabilities and weaknesses that can be exploited within the network. As part of this process, the attacker may harvest login credentials or gather other information, such as email addresses, user IDs, physical locations, software applications and operating system details, all of which may be useful in phishing or spoofing attacks. Generally speaking, the more information the attacker is able to gather during the Reconnaissance phase, the more sophisticated and convincing the attack will be and, hence, the higher the likelihood of success.
+
+Phase 2: Weaponization
+During the Weaponization phase, the attacker creates an attack vector, such as remote access malware, ransomware, virus or worm that can exploit a known vulnerability. During this phase, the attacker may also set up back doors so that they can continue to access to the system if their original point of entry is identified and closed by network administrators.
+
+Phase 3: Delivery
+In the Delivery step, the intruder launches the attack. The specific steps taken will depend on the type of attack they intend to carry out. For example, the attacker may send email attachments or a malicious link to spur user activity to advance the plan. This activity may be combined with social engineering techniques to increase the effectiveness of the campaign.
+
+Phase 4: Exploitation
+In the Exploitation phase, the malicious code is executed within the victim’s system.
+
+Phase 5: Installation
+Immediately following the Exploitation phase, the malware or other attack vector will be installed on the victim’s system. This is a turning point in the attack lifecycle, as the threat actor has entered the system and can now assume control.
+
+Phase 6: Command and Control
+In Command & Control, the attacker is able to use the malware to assume remote control of a device or identity within the target network. In this stage, the attacker may also work to move laterally throughout the network, expanding their access and establishing more points of entry for the future.
+
+Phase 7: Actions on Objective
+In this stage, the attacker takes steps to carry out their intended goals, which may include data theft, destruction, encryption or exfiltration.
+  
+  
+  
