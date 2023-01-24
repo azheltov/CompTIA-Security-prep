@@ -117,5 +117,78 @@ In Command & Control, the attacker is able to use the malware to assume remote c
 Phase 7: Actions on Objective
 In this stage, the attacker takes steps to carry out their intended goals, which may include data theft, destruction, encryption or exfiltration.
   
+ 
+  OS
+  scheduling algoriths? 6processes
+FCFS   - first come first se. (mulitple level queues)
+shortest job first - (shortest remainin time)
+priority scheduling - (Round Robin)
+
+  hacking server?
+reconnaissance
+scanning
+gain access
+maintain access
+cover tracks
+
+  sniffing tools? for networks
+  wireshark 
+  tcpdump
+  msn sniffer 2 (old)
+  ettercap (man in the middle)
+  dsniff ()
+  etherape
+
+OS types
+  real-time
+  multi-programmed
+  batched
+  distributed
+  time sharing
+
+  types of address space 
+  Logical vs Physical
+  (variable)
+  (CPU generated)
+  (viewable)
   
+ 
+  Linux shells
+bash
+ksh
+csh
+zsh
+fish
+
+  Linus processe
+ready
+running
+blocked
+completd/terminted
+zombie
+
+---
+Secuire a server
+  firewall (jpacke filtering, multilayer)
+  testing whte had blackhat
+  athentication
+  passwords
+  updated soft
+  encription (SSL)
+  no remote access
+  
+  
+         packet-
+  honecomb
+  
+  
+  Strength 
+    passion and constant improvement view on thins
+    problem-solving
+    communication, 
+    creative, art, artistic
+    leadership
+  Weakness
+     i like to get to the bottom of things (on my own)
+     i like to retrun and reprocess 
   
