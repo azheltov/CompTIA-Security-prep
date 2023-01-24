@@ -1,1 +1,66 @@
+osi
+unicast/multicast/broadcast
+dns
+firewall (types: packet-filtering, proxy firewalls-7, stateful multilayer inspeciton SMLI 3-4-7
+VPN (enrypted tunnel)
+distributed processing (pull resources together - pluses: data recovery, reliable, low cost, easy to expand)
+ipconfig and ifconfig
+domain vs workgroup (4 parameters - domain: cetralized, one admin, good for lar.network, any network)
+data encapsulation in networking - (header, data, trailer(
 
+
+securit 8 steps
+authenticatio
+passwords
+updates
+antivirus
+firewall
+no phishing
+cryptography
+securing dns
+
+security c vs c++ vs java
+java!
+pointers, code translation, storage allocation, inheritance, overall
+
+soursces of malware: pop-ups, removable media, doc and exe files, internet downloads,
+networks connections, email, ads
+
+how email works?
+
+threats: natural, man made, tech, supply sys
+
+black box vs white box
+
+use-case testing (test functionality - black box!)
+
+static vs dynamic testing (prevention vs cure)
+
+software testing?
+module testing-integration testing-sys testing-acceptance testing
+
+steps to address issues while testing (record, report, control)
+
+cyber attacks
+  SQL senq.quary.laguage attacks (in-band SQLi, Blind SQLi, Out-of-bound SQLi
+  
+  spoofing (prettending)
+  
+  DDoS (denial access attacks)  botnet controller
+  
+  ARP poisoning 
+  address resolution protocol     package filtering/keeping away from trust relationships/arp spoofing
+  
+  ransomware (type of malware 3 types: scareware, screen lockers, encryption ransomware)
+  
+  active vs passive
+  
+  social engineering (phishing attack, spear phishing attack, whaling phishing attack)
+  
+  man in the middle (client - server)
+  
+  black hat hackers vs white hat hackers (authorized)
+  
+  honeypots
+  
+  
